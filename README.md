@@ -1,5 +1,7 @@
 # C--Project
-Project 4 op een rij S2 Programeerproject
+Project 4 op een rij S2 Programeerproject.
+
+
 Ontwikkel een object-georiënteerde C# Windowsapplicatie alsook een webclient, die de gebruikers toelaat het spel vier op een rij te spelen, twee spelers tegen elkaar op 1 client of 1 speler tegen de computer. 
 
 Het basisspel bestaat in het afwisselend laten vallen van een gekleurde schijf (elke speler heeft zijn eigen kleur), in een kolom naar keuze, waarbij de schijf naar beneden in de kolom valt. Winnaar is de eerste speler die zo 4 op een rij kan maken in een raster van 7 kolommen op 6 rijen. Ook diagonaal kan 4 op een rij ontstaan. Een volledig gevulde kolom kan uiteraard niet meer gekozen worden. Indien het bord vol zit en niemand 4 op een rij heeft, noemen we dat een tie (spel stopt, zonder winnaar).
